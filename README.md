@@ -2,14 +2,25 @@
 
 I work on a closed-source business-to-business collaboration platform, and create and maintain open source projects in my spare time. 
 
-I haven't always been ~~a developer~~ coding for a living though. I graduated in "engineering & architecture" and started my career working for an architect as cad-operator. I later switched jobs, and started to work for an engineering firm focussed on underground infrastructures and railways. That was when I first got to experience the imposter syndrome. I felt that my education didn't match my profession, so I got myself a bachelor in "geomatics".
+Projects that I'm currently working on are:
 
-In my early career, I was automating my own work away all-the-time. It took me a while to realize that I should stop with whatever I was doing, and switch my profession one more time. I couldn't keep this as a hobby, I should start making a living out of it. And so I did.
+- [Leaflet-Geosearch] - (Leaflet) GeoSearch / GeoCode provider
+- [Unimported] - Find unused source files in javascript / typescript projects.
+- [Where-Broke] - Find the version of a lib that broke your tests
 
-That's me, Stephan. Father of two boys, and husband of my wife Katya.
-
+- [Testing-Playground] - :frog: Simple and complete DOM testing playground that encourage good testing practices.
+- [Issupported] - Check if your (users) browser is still supported by your (favorite) websites.
+- [updrafts.app] - The Tailwind Studio that empowers you to build professional, custom designs, in a completely visual canvas.
 ---
 
 ps. just in case you're using or checking any of my pinned repo's below 👇, I'd love to hear what you think of them. Mention me at [twitter]? 
 
 [twitter]: http://twitter.com/meijer_s
+
+[Leaflet-Geosearch]: https://github.com/smeijer/leaflet-geosearch
+[Unimported]: https://github.com/smeijer/unimported
+[Where-Broke]: https://github.com/smeijer/where-broke
+
+[Testing-Playground]: https://testing-playground.com
+[IsSupported]: https://issupported.com/
+[updrafts.app]: https://updrafts.app/
