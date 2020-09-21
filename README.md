@@ -4,16 +4,18 @@ I work on a closed-source business-to-business collaboration platform, and creat
 
 Projects that I'm currently working on are:
 
-- [Leaflet-Geosearch] - (Leaflet) GeoSearch / GeoCode provider
-- [Unimported] - Find unused source files in javascript / typescript projects.
-- [Where-Broke] - Find the version of a lib that broke your tests
+name | description
+--- | ---
+[Leaflet-Geosearch] | (Leaflet) GeoSearch / GeoCode provider
+[Unimported] | Find unused source files in javascript / typescript projects.
+[Where-Broke] | Find the version of a lib that broke your tests
+[Testing-Playground] | 🐸 Simple and complete DOM testing playground that encourage good testing practices.
+[Issupported] | Check if your (users) browser is still supported by your (favorite) websites.
+[updrafts.app] | The Tailwind Studio that empowers you to build professional, custom designs, in a completely visual canvas.
 
-- [Testing-Playground] - :frog: Simple and complete DOM testing playground that encourage good testing practices.
-- [Issupported] - Check if your (users) browser is still supported by your (favorite) websites.
-- [updrafts.app] - The Tailwind Studio that empowers you to build professional, custom designs, in a completely visual canvas.
 ---
 
-ps. just in case you're using or checking any of my pinned repo's below 👇, I'd love to hear what you think of them. Mention me at [twitter]? 
+ps. just in case you're using or checking any of my projects 👆 or pinned repo's below 👇, I'd love to hear what you think of them. Mention me at [twitter]? 
 
 [twitter]: http://twitter.com/meijer_s
 
