@@ -4,13 +4,20 @@ I work on a closed-source business-to-business collaboration platform, and creat
 
 Projects that I'm currently working on are:
 
+**node libraries**
 name | description
 --- | ---
 [leaflet-geosearch] | (Leaflet) GeoSearch / GeoCode provider
 [unimported] | Find unused source files in javascript / typescript projects.
 [where-broke] | Find the version of a lib that broke your tests
-[testing-playground] | 🐸 Simple and complete DOM testing playground that encourage good testing practices.
-[issupported] | Check if your (users) browser is still supported by your (favorite) websites.
+[graphql-args] | Extract query fields & arguments from the graphql ast
+[jest-partial] | Partial Matcher for Jest Expect
+
+**web-apps**
+name | description
+--- | ---
+[testing-playground.com] | 🐸 Simple and complete DOM testing playground that encourage good testing practices.
+[issupported.com] | Check if your (users) browser is still supported by your (favorite) websites.
 [updrafts.app] | A Tailwind Studio that empowers you to build professional, custom designs, in a completely visual canvas.
 
 ---
@@ -22,6 +29,8 @@ ps. just in case you're using or checking any of my projects 👆 or pinned repo
 [Leaflet-Geosearch]: https://github.com/smeijer/leaflet-geosearch
 [Unimported]: https://github.com/smeijer/unimported
 [Where-Broke]: https://github.com/smeijer/where-broke
+[graphql-args]: https://github.com/smeijer/graphql-args
+[jest-partial]: https://github.com/smeijer/jest-partial
 
 [Testing-Playground]: https://testing-playground.com
 [IsSupported]: https://issupported.com/
