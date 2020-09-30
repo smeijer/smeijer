@@ -32,6 +32,6 @@ ps. just in case you're using or checking any of my projects 👆 or pinned repo
 [graphql-args]: https://github.com/smeijer/graphql-args
 [jest-partial]: https://github.com/smeijer/jest-partial
 
-[Testing-Playground]: https://testing-playground.com
-[IsSupported]: https://issupported.com/
+[testing-playground.com]: https://testing-playground.com
+[issupported.com]: https://issupported.com/
 [updrafts.app]: https://updrafts.app/
