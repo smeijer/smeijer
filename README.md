@@ -4,18 +4,17 @@ I work on a closed-source business-to-business collaboration platform, and creat
 
 Projects that I'm currently working on are:
 
-**node libraries**
 name | description
 --- | ---
+&nbsp;|
+**node modules** |
 [leaflet-geosearch] | (Leaflet) GeoSearch / GeoCode provider
 [unimported] | Find unused source files in javascript / typescript projects.
 [where-broke] | Find the version of a lib that broke your tests
 [graphql-args] | Extract query fields & arguments from the graphql ast
 [jest-partial] | Partial Matcher for Jest Expect
-
-**web-apps**
-name | description
---- | ---
+&nbsp;|
+**web-apps** |
 [testing-playground.com] | 🐸 Simple and complete DOM testing playground that encourage good testing practices.
 [issupported.com] | Check if your (users) browser is still supported by your (favorite) websites.
 [updrafts.app] | A Tailwind Studio that empowers you to build professional, custom designs, in a completely visual canvas.
