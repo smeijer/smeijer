@@ -19,8 +19,13 @@ module name | description
 
 ---
 
+Thanks for all that [sponsor] my work:
+
+[<img src="https://github.com/aprillion.png" width="32" height="32" />](https://github.com/Aprillion)
+
 ps. just in case you're using or checking any of my projects 👆 or pinned repo's below 👇, I'd love to hear what you think of them. Mention me at [twitter]? 
 
+[sponsor]: https://github.com/sponsors/smeijer
 [twitter]: http://twitter.com/meijer_s
 
 [Leaflet-Geosearch]: https://github.com/smeijer/leaflet-geosearch
