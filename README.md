@@ -22,7 +22,7 @@ module name | description
 **web apps** | **description**
 [issupported.com] | Check if your (users) browser is still supported by your (favorite) websites.
 [rake.red] | Forms for Static Pages — Collect info from users without a server or back-end code.
-[testing-playground.com] | 🐸 Simple and complete DOM testing playground that encourage good testing practices.
+[testing-playground.com] | Simple and complete DOM testing playground that encourage good testing practices.
 [updrafts.app] | A Tailwind Studio that empowers you to build professional, custom designs, in a completely visual canvas.
 
 ps. just in case you're using or checking any of my projects 👆 or pinned repo's below 👇, I'd love to hear what you think of them. Mention me at [twitter]? 
