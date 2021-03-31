@@ -9,7 +9,7 @@ module name | description
 [graphql-args] | Extract query fields & arguments from the graphql ast
 [jest-partial] | Partial Matcher for Jest Expect
 [leaflet-geosearch] | (Leaflet) GeoSearch / GeoCode provider
-[spin-delay] | Smart spinner helper for React, to controll the duration of loading states
+[spin-delay] | Smart spinner helper for React, to manage the duration of loading states
 [unimported] | Find unused source files in javascript / typescript projects.
 [where-broke] | Find the version of a dependency that broke your tests
 [@rakered/accounts] | A Meteor compatible accounts module for managing user accounts in mongodb
