@@ -9,6 +9,7 @@ module name | description
 [graphql-args] | Extract query fields & arguments from the graphql ast
 [jest-partial] | Partial Matcher for Jest Expect
 [leaflet-geosearch] | (Leaflet) GeoSearch / GeoCode provider
+[next-runtime] | All you need to handle POST requests, file uploads, and api requests, in getServerSideProps.
 [spin-delay] | Smart spinner helper for React, to manage the duration of loading states
 [unimported] | Find unused source files in javascript / typescript projects.
 [where-broke] | Find the version of a dependency that broke your tests
@@ -36,6 +37,7 @@ Thanks for all that [sponsor] my work:
 [sponsor]: https://github.com/sponsors/smeijer
 [twitter]: http://twitter.com/meijer_s
 
+[next-runtime]: https://github.com/smeijer/next-runtime
 [spin-delay]: https://github.com/smeijer/spin-delay
 [Leaflet-Geosearch]: https://github.com/smeijer/leaflet-geosearch
 [Unimported]: https://github.com/smeijer/unimported
