@@ -30,9 +30,9 @@ ps. just in case you're using or checking any of my projects 👆 or pinned repo
 
 ---
 
-Thanks for all that [sponsor] my work:
+Thanks for all that [❤️ sponsor](https://github.com/sponsors/smeijer) my work!
 
-[<img src="https://github.com/aprillion.png" width="32" height="32" />](https://github.com/Aprillion)
+
 
 [sponsor]: https://github.com/sponsors/smeijer
 [twitter]: http://twitter.com/meijer_s
