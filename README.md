@@ -1,6 +1,6 @@
 ### Hi, I'm Stephan 👋
 
-I work MagicBell.io, and create and maintain open source projects in my spare time. 
+I work MagicBell, and create and maintain open source projects in my spare time. 
 
 Projects that I'm currently working on are:
 
