@@ -26,7 +26,7 @@ module name | description
 [testing-playground.com] | Simple and complete DOM testing playground that encourage good testing practices.
 [updrafts.app] | A Tailwind Studio that empowers you to build professional, custom designs, in a completely visual canvas.
 
-ps. just in case you're using or checking any of my projects 👆 or pinned repo's below 👇, I'd love to hear what you think of them. Mention me at [twitter]? 
+ps. just in case you're using or checking any of my projects 👆 or pinned repo's below 👇, I'd love to hear what you think of them. Mention me at [dev-null]? 
 
 ---
 
@@ -35,7 +35,7 @@ Thanks for all that [❤️ sponsor](https://github.com/sponsors/smeijer) my wor
 
 
 [sponsor]: https://github.com/sponsors/smeijer
-[twitter]: http://twitter.com/meijer_s
+[dev-null]: http://dev-null.sh/@smeijer
 
 [next-runtime]: https://github.com/smeijer/next-runtime
 [spin-delay]: https://github.com/smeijer/spin-delay
